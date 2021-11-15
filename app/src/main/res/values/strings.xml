@@ -1,0 +1,151 @@
+<resources>
+    <string name="app_name">MascotApp</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">MascotApp </string>
+    <string name="nav_header_subtitle">Programación movil</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_inicio">Inicio</string>
+    <string name="menu_registrar">Registrar mascota</string>
+    <string name="menu_editar">Editar mascota</string>
+    <string name="menu_consultar">Consultar mascotas</string>
+    <string name="menu_acerca">Créditos</string>
+    <string name="menu_eliminar">Eliminar mascota</string>
+    <string name="menu_buscar">Buscar mascota</string>
+    <string name="menu_papelera">Papelera</string>
+
+    <string name="txtRegistrar">Nueva mascota</string>
+    <string name="txtEstatus">Estatus</string>
+    <string name="txtEnviarPapelera">Enviar a la papelera</string>
+    <string name="txtQuitarPapelera">Restaurar elemento</string>
+    <string name="txtEliminarDefinitivamente">Eliminar definitivamente</string>
+    <string name="txtEstatusActivo">Activo</string>
+    <string name="txtEstatusInactivo">Inactivo</string>
+    <string name="txtID">ID</string>
+    <string name="txtNombreMascota">Nombre de la mascota</string>
+    <string name="txtNombrePropietario">Nombre del propietario</string>
+    <string name="txtDireccion">Dirección</string>
+    <string name="txtTelefono">Telefono</string>
+    <string name="txtEmail">e-mail</string>
+    <string name="txtEspecie">Especie</string>
+    <string name="txtGato">Gato</string>
+    <string name="txtPerro">Perro</string>
+    <string name="txtOtro">Otro</string>
+    <string name="txtNacimiento">Fecha de nacimiento</string>
+    <string name="txtSexo">Sexo</string>
+    <string name="txtMacho">Macho</string>
+    <string name="txtHembra">Hembra</string>
+    <string name="txtRaza">Raza</string>
+    <string name="txtColor">Color</string>
+    <string name="txtParticulidades">Señas particulares</string>
+
+    <string name="txtDescripcion">Foto del animal</string>
+    <string name="txtDescImg">Imagen</string>
+
+    <string name="txtVeterinario">Médico Veterinario</string>
+
+    <string name="txtAceptar">Aceptar</string>
+    <string name="txtEditMascota">Editar mascota</string>
+    <string name="txtEliminarMascota">Eliminar mascota</string>
+    <string name="txtBuscaMascota">Buscar mascota</string>
+    <string name="txtPapelera">Papelera</string>
+    <string name="txtBusqueda">Buscar mascota</string>
+    <string name="txtIngreseBuscaMascota">Ingrese el ID de mascota para buscar</string>
+    <string name="txtIngreseBuscaMascotaNomb">Ingrese el nombre de mascota para filtrar</string>
+    <string name="txtDetMascota">Detalle de la mascota</string>
+    <string name="txtConsultar">Mascotas</string>
+
+    <string name="txtCreditos">Créditos</string>
+    <string name="txtAutor">Autor:</string>
+    <string name="txtVarAutor">Sanchez Valdin Kevin Ivan</string>
+    <string name="txtMateria">Materia:</string>
+    <string name="txtVarMateria">Programación móvil</string>
+    <string name="txtCarrera">Carrera:</string>
+    <string name="txtVarCarrera">Ingeniería en Sistemas Computacionales</string>
+    <string name="txtUniversidad">Universidad:</string>
+    <string name="txtVarUniversidad">Instituto Tecnologico de Toluca</string>
+    <string name="txtPeriodo">Periodo:</string>
+    <string name="txtVarPeriodo">Junio-Diciembre 2021</string>
+    <string name="txtVersion">Version:</string>
+    <string name="txtVarVersion">1.0</string>
+    <string name="txtMaestra">Maestra:</string>
+    <string name="txtVarMaestra">Elizabeth Pulido Alba</string>
+
+    <string name="txtLimpiar">Limpiar</string>
+    <string name="txtGuardar">Guardar</string>
+    <string name="txtCancelar">Cancelar</string>
+    <string name="txtEliminar">Eliminar</string>
+    <string name="txtEditar">Editar</string>
+    <string name="txtVer">Ver</string>
+    <string name="txtNuestoEquipo">Equipo especializado</string>
+    <string name="txtMacotasFelices">Mascotas felices</string>
+    <string name="txtDerechos">&#169; Todos los derechos reservados &amp;2021</string>
+    <string name="txtInicio">Veterinaria 24hr</string>
+    <string name="txtDesc">
+        Nuestro equipo médico está conformado por médicos <b>veterinarios zootecnistas certificados</b>
+        y profesionales que se actualizan día a día en las diversas técnicas y tratamientos para
+        el cuidado de su mascota, para proporcionarle a cada paciente la atención
+        clínica veterinaria que se merecen.
+    </string>
+
+
+    <string name="txtInfoID">ID: </string>
+    <string name="txtInfoNombreMascota">Nombre de la mascota: </string>
+    <string name="txtInfoNombrePropietario">Nombre del propietario: </string>
+    <string name="txtInfoDireccion">Dirección: </string>
+    <string name="txtInfoTelefono">Telefono: </string>
+    <string name="txtInfoEmail">e-mail: </string>
+    <string name="txtInfoEspecie">Especie: </string>
+    <string name="txtInfoNacimiento">Fecha de Nacimiento: </string>
+    <string name="txtInfoSexo">Sexo: </string>
+    <string name="txtInfoRaza">Raza: </string>
+    <string name="txtInfoColor">Color: </string>
+    <string name="txtInfoParticulidades">Señas particulares: </string>
+    <string name="txtInfoVeterinario">Veterinario: </string>
+
+    <string name="txtInfoEjmID">id</string>
+    <string name="txtInfoEjmNombreMascota">nombre de la mascota</string>
+    <string name="txtInfoEjmNombrePropietario">nombre del propietario</string>
+    <string name="txtInfoEjmDireccion">dirección</string>
+    <string name="txtInfoEjmTelefono">telefono</string>
+    <string name="txtInfoEjmEmail">e-mail</string>
+    <string name="txtInfoEjmEspecie">especie</string>
+    <string name="txtInfoEjmNacimiento">fecha del nacimiento</string>
+    <string name="txtInfoEjmSexo">sexo</string>
+    <string name="txtInfoEjmRaza">raza</string>
+    <string name="txtInfoEjmColor">color</string>
+    <string name="txtInfoEjmParticulidades">particularidades</string>
+    <string name="txtInfoEjmVeterinario">nombre del veterinario</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!--
+
+  <com.google.android.material.textfield.TextInputLayout
+                android:layout_width="260dp"
+                android:layout_height="wrap_content"
+                app:boxBackgroundMode="outline"
+                style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+
+                app:boxCornerRadiusTopEnd="10dp"
+                app:boxCornerRadiusBottomEnd="10dp"
+                app:boxCornerRadiusTopStart="10dp"
+                app:boxCornerRadiusBottomStart="10dp"
+                app:helperText="@string/txtNacimiento"
+                app:helperTextEnabled="false"
+                app:counterEnabled="true"
+                app:counterMaxLength="250"
+                app:endIconMode="clear_text"
+                app:startIconDrawable="@drawable/ic_baseline_person_pin_24"
+                >
+                <com.google.android.material.textfield.TextInputEditText
+                    android:id="@+id/editRegisNac"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:hint="@string/txtNacimiento"
+                    android:inputType="date" />
+
+            </com.google.android.material.textfield.TextInputLayout>
+-->
+</resources>
